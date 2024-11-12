@@ -59,7 +59,8 @@ if _name_ == "_main_":
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/55fa6d89-b512-41c4-8ffc-a65b346a428a)
+
+![image](https://github.com/user-attachments/assets/b47c7974-51e7-4226-933b-41c8d13db9ad)
 
 
 ### Result:
