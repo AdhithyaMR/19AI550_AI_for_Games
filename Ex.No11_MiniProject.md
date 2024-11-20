@@ -206,4 +206,5 @@ print(path)
 ![Screenshot 2024-11-20 195545](https://github.com/user-attachments/assets/d8312cfb-0ad4-46d3-b421-27ecd867a8ee)
 
 #### RESULT:
-The experiment successfully demonstrates the implementation of the A* algorithm in a grid-based
+The experiment successfully demonstrates the implementation of the A* algorithm in a grid-based game, integrating interactive AI mechanics for pathfinding, collectibles, and enemy behavior.
+
