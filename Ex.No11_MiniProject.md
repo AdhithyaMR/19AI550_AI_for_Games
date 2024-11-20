@@ -1,6 +1,6 @@
 # Ex.No: 11  Mini Project 
 ### DATE:                                                                            
-### REGISTER NUMBER : 212222240043
+### REGISTER NUMBER : 212222240002
 ### TITLE: Pathfinding and Game Mechanics Using A Algorithm*
 
 ### AIM:
